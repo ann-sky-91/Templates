@@ -1,1 +1,1 @@
-eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks prettier-plugin-sort-imports typescript-eslint/eslint-plugin @typescript-eslint/parser prettier
+eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks prettier-plugin-sort-imports @typescript-eslint/eslint-plugin @typescript-eslint/parser prettier
